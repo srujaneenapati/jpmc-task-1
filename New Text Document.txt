@@ -48,6 +48,7 @@ def getRatio(price_a, price_b):
     return 1
     if (price_b == 0):
             return
+         else:
     return price_a / price_b
 
     # Main
